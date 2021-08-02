@@ -1,2 +1,2 @@
 # Projeto-ECOP04-014
-Projeto final para os cursos ECOP04 e ECOP14 - UNIFEI.
+Este projeto tem como objetivo o desenvolvimento de uma rotina de códigos no micro controlador PIC18F4520 que simule o funcionamento de uma secadora de uso doméstico incluindo seus diversos modos de operação e capacidade.
